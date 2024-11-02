@@ -1,9 +1,16 @@
+<div align="center">
 
-## RAH
+![](img/logo.png)
+
+<h1 align="center">AWD-RAH: AWD辅助工具</h1>
+
+<a href="https://github.com/dr0n1/AWD_RAH/releases/"><img src="https://img.shields.io/badge/release-AWD--RAH-blue"></a>
+<a href="https://qm.qq.com/q/Nvffg2kzuO"><img src="https://img.shields.io/badge/QQ群-965066889-orange?style=flat-square" alt="QQGroup"></a>
+</div>
 
 一款awd辅助小工具
 
-[使用教程](https://github.com/dr0n1/AWD_RAH/wiki/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C)
+[使用教程](https://www.dr0n.top/posts/48fe3a65/)
 
 
 ## 更新日志
