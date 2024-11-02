@@ -32,3 +32,8 @@ SHA1 的 RAH V3.0.1.exe 哈希:
 
 MD5 的 RAH V3.0.1.exe 哈希:  
 2d215fd90af14303723a213517a835b0  
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dr0n1/AWD_RAH&type=Date)](https://star-history.com/#dr0n1/AWD_RAH&Date)
