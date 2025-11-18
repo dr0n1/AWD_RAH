@@ -44,10 +44,10 @@ V4.0.0：优化重构大量代码(全局设置，多人模块细节)，结构标
 
 
 SHA1 的 RAH_V4.0.0.exe 哈希:  
-48a11bde2a566433303bb9a6bcbe1fd7b4a16c5b  
+caf57c2ca0a341107aa0315bbb5b45b0189b8a26  
 
 MD5 的 RAH_V4.0.0.exe 哈希:  
-bcf5969e20831deb108d6e72e5f82ed7  
+693d8a0714a7ba18cfb2d739f961e924  
 
 
 ## 免责声明
